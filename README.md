@@ -1,4 +1,4 @@
-# Hi, I'm Lukáš Salak 👋
+# Hi, I'm Lukáš👋
 
 ### About Me
 
