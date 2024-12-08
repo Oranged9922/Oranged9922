@@ -15,7 +15,7 @@ I'm a software developer specializing in .NET (C#), C/C++, and JavaScript (React
 
 Here are some of my favorite projects:
 
-1. **[DAPP](https://github.com/Oranged9922/dapp)**: Software for my bachelor thesis, a tool for analyzing PDF documents to detect anonymized sections. It is designed as a web service that receives input data as an HTTP request with local paths or URLs to PDF files and returns analysis results in JSON format. Technologies used: C#, SQL, DDD, Clean architecture.
+1. **[DAPP](https://github.com/Oranged9922/detection-anonymized-parts-in-pdfs-bachelor-thesis)**: Software for my bachelor thesis, a tool for analyzing PDF documents to detect anonymized sections. It is designed as a web service that receives input data as an HTTP request with local paths or URLs to PDF files and returns analysis results in JSON format. Technologies used: C#, SQL, DDD, Clean architecture.
 2. **[TaskManager](https://github.com/Oranged9922/TaskManager)**: A C# WPF project of my own implementation of a task manager, similar to Jira, for personal use. REST API, SQL database integration via EF, Docker. Technologies used: C# 8.0, SQL, DDD, CI/CD.
 
 Feel free to check out my repos, and don't hesitate to reach out if you'd like to collaborate!
